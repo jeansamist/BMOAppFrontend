@@ -1,0 +1,39 @@
+{
+  "name": "MyReactNativeApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@expo-google-fonts/poppins": "^0.2.2",
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "expo": "~44.0.0",
+    "expo-font": "~10.0.4",
+    "expo-linear-gradient": "~11.0.3",
+    "expo-navigation-bar": "~1.1.1",
+    "expo-status-bar": "~1.2.0",
+    "expo-updates": "~0.11.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "^0.64.3",
+    "react-native-drop-shadow": "^0.0.4",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-safe-area-context": "^4.0.1",
+    "react-native-screens": "^3.12.0",
+    "react-native-shadow-2": "^6.0.5",
+    "react-native-svg": "^12.3.0",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  }
+}
